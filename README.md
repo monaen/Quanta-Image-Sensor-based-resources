@@ -1,1 +1,1 @@
-# Quanta-Image-Sensor-based-resources
+# Quanta Image Sensor
